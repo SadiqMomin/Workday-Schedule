@@ -10,16 +10,16 @@ https://github.com/coding-boot-camp/super-disco
 * When the planner is openned, the current day is displayed at the top of the calendar
 * When scrolled down, the user is presented with time blocks for standard business hours (from 9AM to 5PM)
 * When the user views the time blocks for that day, each time block is color-coded to indicate whether it is in the past, present, or future
-  * ![#dfe6e9](https://via.placeholder.com/15/F2EDDC/000000?text=+) `Past` 
-  * ![#ff7675](https://via.placeholder.com/15/D96A29/000000?text=+) `Present`
-  * ![#7bed9f](https://via.placeholder.com/15/1589F0/000000?text=+) `Future` 
+  * ![#dfe6e9](https://via.placeholder.com/15/dfe6e9/000000?text=+) `Past` 
+  * ![#ff7675](https://via.placeholder.com/15/ff7675/000000?text=+) `Present`
+  * ![#7bed9f](https://via.placeholder.com/15/7bed9f/000000?text=+) `Future` 
 * Then the user can click into a time block and enter an event
 * When clicked on the save button on the right for that time block, then the text for that event is saved in local storage
 * When the page is refreshed, the saved events persist
 
 
 ## Deployment
-Demo: 
+Workday Schedule App: https://sadiqmomin.github.io/Workday-Schedule/
 
 ![day planner demo](./Assets/05-third-party-apis-homework-demo.png)
 
