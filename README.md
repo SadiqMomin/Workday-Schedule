@@ -21,7 +21,7 @@ https://github.com/coding-boot-camp/super-disco
 ## Deployment
 Workday Schedule App: https://sadiqmomin.github.io/Workday-Schedule/
 
-![day planner demo](./Assets/05-third-party-apis-homework-demo.png)
+![day planner demo](./Assets/Workday ScreenShot Video.mov)
 
 ## Built With
 
